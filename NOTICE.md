@@ -1,10 +1,15 @@
+오픈 API
+-----
+카카오맵 API
+
 참고 도서
 -----
 
 src폴더의 index.php와 manage_demo.php의 게시판은                     
 한빛아카데미 도서 'PHP 프로그래밍 입문'의 소스코드를 이용하여 만들었습니다.                   
 지은이 황재호 http://codingschool.info                                       
-소스파일 http://codingschool.info/rboard2/index.php?type=view&table=download&num=4&page=1&search=                    
+소스파일 http://codingschool.info/rboard2/index.php?type=view&table=download&num=4&page=1&search=     
+
 
 Bootstrap License
 -----
@@ -397,13 +402,3 @@ proprietary programs.  If your program is a subroutine library, you may
 consider it more useful to permit linking proprietary applications with the
 library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.
-
-mySQL License
------
-
-Copyright (C) 1989, 1991 Free Software Foundation, Inc.  
-51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA
-
-Everyone is permitted to copy and distribute verbatim copies
-of this license document, but changing it is not allowed.
-
